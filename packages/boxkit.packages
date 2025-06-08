@@ -17,4 +17,5 @@ plocate
 wl-clipboard
 ncurses
 texlive-full
+biber
 asymptote
